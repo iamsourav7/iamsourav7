@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sourav
-- 👀 I’m interested in JavaScript based projects
-- 🌱 I’m currently learning angular
-- 💞️ I’m looking to collaborate on java or Javascript
+- 👀 I’m interested in SpringBoot based projectds
+- now i am learning microservices
 - 📫 How to reach me souravmahapatra07@gmail.com
 
 <!---
